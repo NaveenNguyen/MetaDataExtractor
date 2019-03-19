@@ -13,4 +13,6 @@ The functions of metadataextractor:
   -> The python script will extract metadata from the downloaded pdf files
   
   
-  
+[![pdf-meta.png](https://i.postimg.cc/gJqsK45X/pdf-meta.png)](https://postimg.cc/KkjtG7mx)
+
+[![pdf-meta2.png](https://i.postimg.cc/C1mD12XN/pdf-meta2.png)](https://postimg.cc/DJ4mpx2J)
