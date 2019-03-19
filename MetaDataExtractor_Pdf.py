@@ -1,5 +1,4 @@
 #/usr/bin/python 
-#get_doc_info.py
  
 from PyPDF2 import PdfFileReader
 import sys,glob,os
